@@ -1,7 +1,7 @@
 package model;
 
 /**
- * Representa un método genérico para realizar pagos.
+ * Representa un metodo genérico para realizar pagos.
  */
 public interface PaymentMethod {
     /**
